@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/weNbhGZ.png">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.jona_s/)
+[![Discord – Contact](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1037172855701520466)
 
 
 
