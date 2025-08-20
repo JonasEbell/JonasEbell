@@ -98,13 +98,25 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <!-- GitHub stats como progreso nuevo -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+0&hide=stars,followers&disable_animations=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasEbell&show_icons=true&count_private=true&hide_title=false&include_all_commits=true)
 
-  <!-- Lenguajes de programación como inicio desde 0 -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia&exclude_langs=CMake,Dart,Kotlin,MDX&langs=PHP,Python,JavaScript,HTML,CSS,Java,TypeScript,Ruby&custom_title=Mis+Lenguajes+de+Programacion"/>
-</a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasEbell)
+
+![GitHub Stars](https://img.shields.io/github/stars/JonasEbell?style=social)
+![GitHub Commits](https://badgen.net/github/commits/JonasEbell/README)
+![GitHub PRs](https://badgen.net/github/prs/JonasEbell/README)
+![GitHub Issues](https://badgen.net/github/issues/JonasEbell/README)
+![GitHub Contributors](https://badgen.net/github/contributors/JonasEbell/README)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasEbell&show_icons=true&count_private=true&hide_title=false&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasEbell)
+
+![GitHub Stars](https://img.shields.io/github/stars/JonasEbell?style=social)
+![GitHub Commits](https://badgen.net/github/commits/JonasEbell/README)
+![GitHub PRs](https://badgen.net/github/prs/JonasEbell/README)
+![GitHub Issues](https://badgen.net/github/issues/JonasEbell/README)
+![GitHub Contributors](https://badgen.net/github/contributors/JonasEbell/README)
 
