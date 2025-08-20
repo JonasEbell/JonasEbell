@@ -100,11 +100,11 @@
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <!-- GitHub stats con cero -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&disable_animations=true&custom_title=GitHub+Stats+0"/>
-  
-  <!-- Top lenguajes personalizados -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia&exclude_langs=CMake,Dart,Kotlin,MDX&langs=PHP,Python,JavaScript,HTML,CSS,Java,TypeScript,Ruby&lang_colors=php:ff4d4d,python:3572A5,javascript:f1e05a,html:e34c26,css:563d7c,java:b07219,typescript:3178c6,ruby:701516&custom_title=Mis+Lenguajes+de+Programacion"/>
+  <!-- GitHub stats como progreso nuevo -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+0&hide=stars,followers&disable_animations=true"/>
+
+  <!-- Lenguajes de programación como inicio desde 0 -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia&exclude_langs=CMake,Dart,Kotlin,MDX&langs=PHP,Python,JavaScript,HTML,CSS,Java,TypeScript,Ruby&custom_title=Mis+Lenguajes+de+Programacion"/>
 </a>
 </p>
 
