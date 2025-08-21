@@ -110,13 +110,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasEbell&show_icons=true&count_private=true&hide_title=false&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasEbell)
-
-![GitHub Stars](https://img.shields.io/github/stars/JonasEbell?style=social)
-![GitHub Commits](https://badgen.net/github/commits/JonasEbell/README)
-![GitHub PRs](https://badgen.net/github/prs/JonasEbell/README)
-![GitHub Issues](https://badgen.net/github/issues/JonasEbell/README)
-![GitHub Contributors](https://badgen.net/github/contributors/JonasEbell/README)
 
